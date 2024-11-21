@@ -3,9 +3,9 @@
   background-image: url("/images/places/ocean.jpg");
   background-position: center;
   background-size: cover;
-  position: absolute;
   top: 0;
-  width: auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 #hero-content {
